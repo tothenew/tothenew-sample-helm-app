@@ -1,0 +1,5 @@
+global:
+  accountId: "12345678891"
+  region: "us-east-2"
+  ssmCsiRole: "arn:aws:iam::123456789123:role/ssm-parameter-helm-integration-role"
+  prefix: "ttn"
