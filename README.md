@@ -1,16 +1,9 @@
-# terraform-aws-template
+# terraform-sample-helm-app
 
 [![Lint Status](https://github.com/tothenew/terraform-aws-template/workflows/Lint/badge.svg)](https://github.com/tothenew/terraform-aws-template/actions)
 [![LICENSE](https://img.shields.io/github/license/tothenew/terraform-aws-template)](https://github.com/tothenew/terraform-aws-template/blob/master/LICENSE)
 
-This is a template to use for baseline. The default actions will provide updates for section bitween Requirements and Outputs.
-
-The following content needed to be created and managed:
- - Introduction
-     - Explaination of module 
-     - Intended users
- - Resource created and managed by this module
- - Example Usages
+This is sample helm chart for deploying a demo app on eks cluster for testing/demo purpose
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
